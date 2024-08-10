@@ -19,8 +19,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JuanEstrella | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.js" />][email]
+[<img align="left" alt="JuanEstrella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[email]: https://twitter.com/joshmadakor
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/estrella-juan/)
+[email]: mailto:estrellajuca@gmail.com
+[linkedin]: https://www.linkedin.com/in/estrella-juan/
