@@ -1,4 +1,4 @@
-<h1>Hello, I'm Juan! <br/><a>Programmer & Data Engineer!</a>
+<h1>Hello, I'm Juan Estrella! <br/><a>Programmer & Data Engineer!</a>
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
