@@ -21,10 +21,13 @@
 
  <h2>⌨️ Skills </h2>
 
- <ul>
-  <li><span>Item 1</span> <span>Item 2</span></li>
-  <li><span>Item 3</span> <span>Item 4</span></li>
+ <ul style="list-style-type: none;">
+  <li>
+    <span style="list-style-type: disc; display: inline-block;">• Item 1</span>
+    <span style="list-style-type: disc; display: inline-block; margin-left: 20px;">• Item 2</span>
+  </li>
 </ul>
+
 
 
 <h2> 🤳 Connect with me:</h2>
