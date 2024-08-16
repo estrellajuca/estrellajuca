@@ -21,10 +21,10 @@
 
  <h2>⌨️ Skills </h2>
 
-- item 2      - item 2
-
-
-
+- <b> Cloud Computing: </b> AWS, Microsoft Azure and GCP.
+- <b>Data Management: </b> RDBMS, SQL, Data Modelling and Data Warehousing.
+- <b> Big Data and Data Processing: </b> Spark, Kafka, Airflow & Databricks.
+- <b> Programming Languages: </b> Python, C, SQL and Bash.
 
 
 <h2> 🤳 Connect with me:</h2>
