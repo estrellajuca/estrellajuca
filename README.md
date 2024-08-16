@@ -22,11 +22,12 @@
  <h2>⌨️ Skills </h2>
 
  <ul style="list-style-type: none; padding: 0;">
-  <li style="display: flex; align-items: center;">
-    <span style="list-style-type: disc; display: inline-block; margin-right: 10px;">• Item 1</span>
-    <span style="list-style-type: disc; display: inline-block; margin-left: auto;">• Item 2</span>
+  <li style="display: flex; justify-content: space-between;">
+    <span style="list-style-type: disc; display: inline-block;">• Item 1</span>
+    <span style="list-style-type: disc; display: inline-block; text-align: center; flex-grow: 1;">• Item 2</span>
   </li>
 </ul>
+
 
 
 
