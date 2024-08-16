@@ -19,6 +19,14 @@
 
   - [English C2 Proficiency](https://www.iteptest.com/reports/certificate.php?c=yVSUGWs)
 
+ <h2>⌨️ Skills </h2>
+
+ <ul>
+  <li><span>Item 1</span> <span>Item 2</span></li>
+  <li><span>Item 3</span> <span>Item 4</span></li>
+</ul>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JuanEstrella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
