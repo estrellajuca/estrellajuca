@@ -29,7 +29,7 @@
 - <b> Programming Languages: </b> Python, C, SQL and Bash.
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌐 Connect with me:</h2>
 
 [<img align="left" alt="JuanEstrella | LinkedIn" width="48px" src="https://raw.githubusercontent.com/estrellajuca/estrellajuca/main/linkedin-svgrepo-com.svg" />][linkedin]
 [<img align="left" alt="JuanEstrella | Email" width="49 px" src="https://raw.githubusercontent.com/estrellajuca/estrellajuca/main/gmail-icon-logo-svgrepo-com.svg" />][email]
