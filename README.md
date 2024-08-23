@@ -32,7 +32,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JuanEstrella | LinkedIn" width="38px" src="https://raw.githubusercontent.com/estrellajuca/estrellajuca/main/linkedin-svgrepo-com.svg" />][linkedin]
-[<img align="left" alt="JuanEstrella | Email" width="35 px" src="https://raw.githubusercontent.com/estrellajuca/estrellajuca/main/gmail-icon-logo-svgrepo-com.svg" />][email]
+[<img align="left" alt="JuanEstrella | Email" width="40 px" src="https://raw.githubusercontent.com/estrellajuca/estrellajuca/main/gmail-icon-logo-svgrepo-com.svg" />][email]
 
 [email]: mailto:estrellajuca@gmail.com
 [linkedin]: https://www.linkedin.com/in/estrella-juan/
