@@ -4,9 +4,9 @@
 
 - <b>Data Pipelines</b>
 
-  - [2021 Olympics ETL Pipeline using Microsoft Azure Services](https://github.com/estrellajuca/2021-olympics-data-engineering-project)
   - [Reddit Batch Pipeline using Airflow and Amazon Web Services](https://github.com/estrellajuca/reddit-data-engineering-project)
- 
+  - [2021 Olympics ETL Pipeline using Microsoft Azure Services](https://github.com/estrellajuca/2021-olympics-data-engineering-project)
+  
 
 <h2>👨‍🎓 Certifications:</h2>
 
