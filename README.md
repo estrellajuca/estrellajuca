@@ -26,7 +26,7 @@
 
 - <b> Cloud Computing: </b> AWS and Microsoft Azure.
 - <b>Data Management: </b> RDBMS, SQL, Data Modelling and Data Warehousing.
-- <b> Big Data and Data Processing: </b> Spark, Kafka, Airflow & Databricks.
+- <b> Data Pipelines and Processing: </b> Spark, Kafka, Airflow & Databricks.
 - <b> Programming Languages: </b> Python, C, SQL and Bash.
 
 
