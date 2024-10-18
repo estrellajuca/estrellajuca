@@ -8,7 +8,7 @@
   - [2021 Olympics ETL Pipeline using Microsoft Azure](https://github.com/estrellajuca/2021-olympics-data-engineering-project)
   
 
-<h2>👨‍🎓 Certifications:</h2>
+<h2>👨‍🎓 Certificates:</h2>
 
 - <b>Data Engineering</b>
 
