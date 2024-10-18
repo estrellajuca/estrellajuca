@@ -1,6 +1,6 @@
 <h1>Hello, I'm Juan Estrella! <br/><a>Programmer & Data Engineer!</a>
 
-<h2>👨‍💻 Data Engineering Projects:</h2>
+<h2>👨‍💻 Data Engineering Projects</h2>
 
 - <b>Data Pipelines</b>
 
@@ -8,7 +8,7 @@
   - [2021 Olympics ETL Pipeline using Microsoft Azure](https://github.com/estrellajuca/2021-olympics-data-engineering-project)
   
 
-<h2>👨‍🎓 Certificates:</h2>
+<h2>👨‍🎓 Certificates</h2>
 
 - <b>Data Engineering</b>
 
