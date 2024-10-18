@@ -13,6 +13,7 @@
 - <b>Data Engineering</b>
 
   - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/JMCVJVDLM25U)
+  - [Data Warehousing Fundamentals](https://www.udemy.com/certificate/UC-ef323b5e-8891-4cf2-8af7-cce811a0f922/)
   - [Python for Data Science, AI & Development](https://coursera.org/share/7540605108d02f69c4d12636d21624c5)
   - [Python Project for Data Engineering](https://coursera.org/share/cb36160c16bdfa984edbb252af277d93)
   - [Relational Databases (RDBMS) Essentials](https://www.credly.com/badges/b3c6f763-2e21-40f4-9f5e-69cb40dff3fa/linked_in_profile)
